@@ -1,0 +1,5 @@
+{
+	"apiUrl": "https://api.github.com/user",
+	"apiUser": "INSERT_USERNAME_HERE",
+    "apiToken": "INSERT_API_TOKEN_HERE"
+}

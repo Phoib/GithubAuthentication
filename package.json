@@ -1,0 +1,15 @@
+{
+  "name": "githubauthentication",
+  "version": "1.0.0",
+  "description": "Quick methods to authenticate against Github using frisby API calls",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Emiel Suilen",
+  "license": "ISC",
+  "dependencies": {
+    "frisby": "^2.1.0",
+    "jest": "^23.5.0"
+  }
+}
